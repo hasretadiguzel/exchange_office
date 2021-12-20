@@ -1,0 +1,11 @@
+C:\Users\Hasret\source\repos\exchange_office\exchange_office\bin\Debug\exchange_office.exe.config
+C:\Users\Hasret\source\repos\exchange_office\exchange_office\bin\Debug\exchange_office.exe
+C:\Users\Hasret\source\repos\exchange_office\exchange_office\bin\Debug\exchange_office.pdb
+C:\Users\Hasret\source\repos\exchange_office\exchange_office\obj\Debug\exchange_office.csproj.AssemblyReference.cache
+C:\Users\Hasret\source\repos\exchange_office\exchange_office\obj\Debug\exchange_office.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hasret\source\repos\exchange_office\exchange_office\obj\Debug\exchange_office.Form1.resources
+C:\Users\Hasret\source\repos\exchange_office\exchange_office\obj\Debug\exchange_office.Properties.Resources.resources
+C:\Users\Hasret\source\repos\exchange_office\exchange_office\obj\Debug\exchange_office.csproj.GenerateResource.cache
+C:\Users\Hasret\source\repos\exchange_office\exchange_office\obj\Debug\exchange_office.csproj.CoreCompileInputs.cache
+C:\Users\Hasret\source\repos\exchange_office\exchange_office\obj\Debug\exchange_office.exe
+C:\Users\Hasret\source\repos\exchange_office\exchange_office\obj\Debug\exchange_office.pdb
